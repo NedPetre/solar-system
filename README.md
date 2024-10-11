@@ -27,7 +27,7 @@ pip install pygame
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/solar-system-simulation.git
+   git clone https://github.com/NedPetre/solar-system-simulation.git
    ```
 
 2. Navigate to the project directory:
